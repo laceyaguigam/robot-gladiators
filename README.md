@@ -34,7 +34,8 @@ https://laceyaguigam.github.io/robot-gladiators/
 
 
 ## Contribution
-Made with ❤️ by Lacey Aguigam
+
+Created by Lacey Agugiam Junior Full Stack Developer, my work is available at https://github.com/laceyaguigam
 
 
 
