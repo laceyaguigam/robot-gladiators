@@ -12,6 +12,15 @@ The following is the hackathon video game rules:
 * participants cannot use CSS
 * all game code must be contained in the game.js JavaScript file
 
+## Installation 
+
+Clone the source code for the Robot Gladiators from the Robot gladiator repository and save to desired location. 
+## Usage
+
+Open Robot Gladiator folder in vs code and open the index.html file in desired browser. 
+Once the index.html file is opened, user will then be welcomed to the game and prompted to name their robot. 
+After the user names their robot the user will then follow a series of prompts that will allow the user to select whether they would like to fight, skip a fight or buy somthing at the shop. 
+User will fight each opponent until user either loses all of their life or beats every opponent.
 
 ## Built With
 * JavaScript 
